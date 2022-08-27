@@ -165,7 +165,7 @@ async function fetchArticle() {
   let result = '';
   inputText.value = '';
   fetchAnimation.style.display = 'block';
-  website = 'https://hidden-citadel-76712.herokuapp.com?url=' + inputURL.value;
+  website = 'https://article-parser.fly.dev?url=' + inputURL.value;
   console.log(website);
 
   console.log(`Fetching from ${website}`);
