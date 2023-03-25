@@ -13,7 +13,7 @@ This project is V2 of my earlier project called [Podcastify-It](https://github.c
 - [ ] Bug on Safari
 - [ ] Keyboard shortcuts with music player like controls
 - [ ] Support for mobile listening with screen off
-- [ ] Support for listening on desktop by minimising/in background
+- [x] Support for listening on desktop by minimising/in background
 - [x] Fresh sticky player controls
 - [x] Better visualisation for listening indication
 - [x] Implement better analytics
