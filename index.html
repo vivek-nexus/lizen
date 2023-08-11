@@ -406,6 +406,16 @@ On desktop devices, Google voices provided by Chrome browser are the best. On An
     <script src="tts.js"></script>
     <script src="animate-js.js"></script>
     <script src="nosleep.js"></script>
+    <script>
+        setTimeout(() => {
+            const newURL = "https://yakshag.github.io/listen/"
+            const result = confirm("There's a new version of this tool. Would you like to use that?");
+            if (result) {
+                window.location.assign = newURL;
+                window.open(newURL, "_top")
+            }
+        }, 1000);
+    </script>
     <script type="text/javascript">
         window._mfq = window._mfq || [];
         (function () {
