@@ -1,10 +1,10 @@
 # Project Lizen
-## View the upgraded version of this project at https://github.com/yakshaG/listen
+## View the upgraded version of this project at https://github.com/vivek-nexus/listen
 
 # Deployment
-This project is deployed at https://yakshag.github.io/lizen/ with Github pages.
+This project is deployed at https://vivek-nexus.github.io/lizen/ with Github pages.
 
-This project is V2 of my earlier project called [Podcastify-It](https://github.com/yakshaG/podcastify-it).
+This project is V2 of my earlier project called [Podcastify-It](https://github.com/vivek-nexus/podcastify-it).
 
 # Implementation plan
 ## High
